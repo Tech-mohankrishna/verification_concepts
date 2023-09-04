@@ -1,5 +1,4 @@
-// Code your testbench here
-// or browse Examples
+// this code explains the use of CLASS and Randomization concept in verification
 
 class advance;
   rand bit x,y;

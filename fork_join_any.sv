@@ -1,5 +1,4 @@
-// Code your testbench here
-// or browse Examples
+// This code tells about Fork-Join Concepts of Verification
 program test;
  initial begin
    $display("start");
