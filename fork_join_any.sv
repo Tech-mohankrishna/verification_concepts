@@ -23,7 +23,7 @@ program test;
      display3();
    join_any
    
-   wait fork
+   wait fork // it will wait for the unifinished forks to complete 
 
      $display("end");
      end

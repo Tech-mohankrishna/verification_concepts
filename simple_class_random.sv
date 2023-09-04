@@ -2,7 +2,7 @@
 
 class advance;
   rand bit x,y;
-  randc int a,b;
+  randc int a,b; // here ranc refers to the cyclic randomization
   constraint c1
   {
     a inside {[91:99]};
