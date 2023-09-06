@@ -15,7 +15,7 @@ class advance;
     else
       b == 11;
   }
-  extern constraint c3;
+  extern constraint c3; // calling external constraints here 
 endclass
 
 constraint advance::c3
